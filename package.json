@@ -5,6 +5,11 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "meteor-node-stubs": "~0.2.0"
+    "classnames": "^2.2.5",
+    "lodash": "^4.13.1",
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-router": "^2.4.1"
   }
 }
