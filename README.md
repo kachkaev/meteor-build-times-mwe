@@ -9,7 +9,7 @@ rm -rf node_modules
 meteor npm install
 METEOR_PROFILE=100 meteor
 
-# now change client/main.css and see the time profile
+# now change client/main.less and see the time profile
 ```
 
 Result for `dev-no` branch when a less file changes:
